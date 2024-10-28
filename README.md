@@ -1,4 +1,7 @@
 ## Hi there 👋
+### This is my sub account!
+
+### You can find my main account at https://github.com/ideal402/
 
 <!--
 **racoon0402/racoon0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
